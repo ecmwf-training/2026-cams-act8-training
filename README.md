@@ -1,2 +1,2 @@
-# 2026-cams-act8-training
-Jupyter notebooks for the 8th Joint ESA, EUMETSAT and ECMWF CAMS training in atmospheric composition, 19-23 October, Thessaloniki, Greece
+# CAMS jupyter notebooks for the 8th joint ESA, EUMETSAT and ECMWF CAMS training in atmospheric composition.
+19-23 October 2026, Thessaloniki, Greece
