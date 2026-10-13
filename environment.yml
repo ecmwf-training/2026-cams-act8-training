@@ -1,0 +1,14 @@
+name: joint-ac-training-2026
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - xarray
+  - zarr
+  - aiohttp
+  - fsspec
+  - requests
+  - pandas
+  - matplotlib
+  - cartopy
